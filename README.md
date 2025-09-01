@@ -24,7 +24,7 @@ Our stack leverages:
 -  [Sparkhacks-2025](https://github.com/educationmoment/Sparkhacks-2025/tree/main)  
   _Web GUI and controller integrations for live mission management_
 
--  [PianoHamster]([https://github.com/educationmoment/Sparkhacks-2025/tree/main](https://github.com/educationmoment/pianohamster/tree/main))  
+-  [PianoHamster]([https://github.com/educationmoment/pianohamster/tree/main])  
   _a piano programming language created entirely by me, written in rust._
 
 ---
