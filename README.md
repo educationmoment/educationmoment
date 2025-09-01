@@ -16,13 +16,16 @@ Our stack leverages:
 
 ---
 
-###  Top Repositories
+###  My repoz
 
 -  [EDT-Lunabotics-2025](https://github.com/educationmoment/EDT-Lunabotics-2025)  
   _Core autonomous excavation robot powered by ROS2 and SLAM_
 
 -  [Sparkhacks-2025](https://github.com/educationmoment/Sparkhacks-2025/tree/main)  
   _Web GUI and controller integrations for live mission management_
+
+-  [PianoHamster]([https://github.com/educationmoment/Sparkhacks-2025/tree/main](https://github.com/educationmoment/pianohamster/tree/main))  
+  _a piano programming language created entirely by me, written in rust._
 
 ---
 
