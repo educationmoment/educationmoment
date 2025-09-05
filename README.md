@@ -7,8 +7,7 @@ I’m a software developer focused on autonomous robotics systems using modern t
 ##  Current Project: UIC Lunar Robot
 
 I’m one of the core software developers for the **UIC Lunabotics Team**, building a fully autonomous lunar excavation robot.  
-Our stack leverages:
-
+we use:
 -  **C++, Python, JavaScript, HTML5, CSS**
 -  **ROS 2 Humble** with SLAM, Nav2, and sensor fusion
 -  **SparkCAN motor control** (Thanks to Grayson @ COD)
@@ -16,7 +15,7 @@ Our stack leverages:
 
 ---
 
-###  My repoz
+###  My repositories:
 
 -  [EDT-Lunabotics-2025](https://github.com/educationmoment/EDT-Lunabotics-2025)  
   _Core autonomous excavation robot powered by ROS2 and SLAM_
@@ -24,7 +23,7 @@ Our stack leverages:
 -  [Sparkhacks-2025](https://github.com/educationmoment/Sparkhacks-2025/tree/main)  
   _Web GUI and controller integrations for live mission management_
 
--  [PianoHamster]([https://github.com/educationmoment/pianohamster/tree/main])  
+-  [PianoHamster](https://github.com/educationmoment/pianohamster/tree/main)  
   _a piano programming language created entirely by me, written in rust._
 
 ---
