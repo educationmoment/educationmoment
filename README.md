@@ -6,8 +6,9 @@ I’m a software developer focused on autonomous robotics systems using modern t
 
 ##  AWARDS
 
-1st Place Robotic Construction- NASA Lunabotics Competetion, May 2025. Issued by National Aeronautics and Space Administration
-5th Place Caterpiller Autonomy Award- NASA Lunabotics Competetion, May 2025. Issued by Caterpiller Inc.
+- 1st Place Robotic Construction- NASA Lunabotics Competetion, May 2025. Issued by National Aeronautics and Space Administration
+
+- 5th Place Caterpiller Autonomy Award- NASA Lunabotics Competetion, May 2025. Issued by Caterpiller Inc.
 
 ---
 
