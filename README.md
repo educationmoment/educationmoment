@@ -4,21 +4,17 @@ I’m a software developer focused on autonomous robotics systems using modern t
 
 ---
 
-##  Current Project: UIC Lunar Robot
+##  AWARDS
 
-I’m one of the core software developers for the **UIC Lunabotics Team**, building a fully autonomous lunar excavation robot.  
-we use:
--  **C++, Python, JavaScript, HTML5, CSS**
--  **ROS 2 Humble** with SLAM, Nav2, and sensor fusion
--  **SparkCAN motor control** (Thanks to Grayson @ COD)
--  Real-time control interfaces and live telemetry monitoring
+1st Place Robotic Construction- NASA Lunabotics Competetion, May 2025. Issued by National Aeronautics and Space Administration
+5th Place Caterpiller Autonomy Award- NASA Lunabotics Competetion, May 2025. Issued by Caterpiller Inc.
 
 ---
 
 ###  My repositories:
 
 -  [EDT-Lunabotics-2025](https://github.com/educationmoment/EDT-Lunabotics-2025)  
-  _Core autonomous excavation robot powered by ROS2 and SLAM_
+  _MAY 2025 LUNABOTICS Competetion Source Code at UIC_
 
 -  [Sparkhacks-2025](https://github.com/educationmoment/Sparkhacks-2025/tree/main)  
   _Web GUI and controller integrations for live mission management_
