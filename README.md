@@ -8,14 +8,13 @@
 
 <p>My last major project was our UIC robot from May 2025, at NASA Lunabotaics, which won 1st in Robotic Construction, and 5th in the Caterpiller Autonomy Award.</p>
 
--  [EDT-Lunabotics-2025](https://github.com/educationmoment/EDT-Lunabotics-2025)  
-  _UIC 2025 Lunabotics_
+[UIC Lunabotics 2025](https://github.com/educationmoment/EDT-Lunabotics-2025)  
 
 
 
 <p>My current project is our new robot at UIC, which is completely rebuilt, and redesigned. I am working with an Intel NUC running Ubuntu 22.04, on ROS Humble.</p>
 
-[2026 Lunabotics Competetion](https://github.com/educationmoment/EDT-Lunabotics-2026))  
+[UIC Lunabotics 2026](https://github.com/educationmoment/EDT-Lunabotics-2026))  
 
 
 
