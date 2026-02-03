@@ -1,6 +1,6 @@
 <p align="left">Hey, I am a robotic software engineer currently working in ML/AI. I know Python, CPP, C, C# and assembly the best.</p>
 
-<p>My website is <b>[terminal.college](https://terminal.college/)</b>, where I post sometimes.</p>
+<p>My website is <b>https://terminal.college/</b>, where I post sometimes.</p>
 
 <p>I use ROS2 Humble, and basically everything indepth of that (NAV2, RS, Gazebo/IssacSIM), on Ubuntu 22.04.</p>
 
