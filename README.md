@@ -14,7 +14,7 @@
 
 <p>My current project is our new robot at UIC, which is completely rebuilt, and redesigned. I am working with an Intel NUC running Ubuntu 22.04, on ROS Humble.</p>
 
-[UIC Lunabotics 2026](https://github.com/educationmoment/EDT-Lunabotics-2026))  
+[UIC Lunabotics 2026](https://github.com/educationmoment/EDT-Lunabotics-2026)  
 
 
 
