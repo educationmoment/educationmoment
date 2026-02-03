@@ -1,29 +1,25 @@
-#  Robotic Engineer | C++ · Python · JavaScript · HTML5 · CSS
+<p align="left">Hey, I am a robotic software engineer currently working in ML/AI. I know Python, CPP, C, C# and assembly the best.</p>
 
-I’m a software developer focused on autonomous robotics systems using modern tools like ROS 2, real-time motor control, and web-based interfaces. I specialize in building systems for robotics.
+<p>My website is <b>[terminal.college](https://terminal.college/)</b>, where I post sometimes.</p>
 
----
+<p>I use ROS2 Humble, and basically everything indepth of that (NAV2, RS, Gazebo/IssacSIM), on Ubuntu 22.04.</p>
 
-##  AWARDS
 
-- 1st Place Robotic Construction- NASA Lunabotics Competetion, May 2025. Issued by National Aeronautics and Space Administration
 
-- 5th Place Caterpiller Autonomy Award- NASA Lunabotics Competetion, May 2025. Issued by Caterpiller Inc.
-
----
-
-###  My repositories:
+<p>My last major project was our UIC robot from May 2025, at NASA Lunabotaics, which won 1st in Robotic Construction, and 5th in the Caterpiller Autonomy Award.</p>
 
 -  [EDT-Lunabotics-2025](https://github.com/educationmoment/EDT-Lunabotics-2025)  
-  _MAY 2025 LUNABOTICS Competetion Source Code at UIC_
-
--  [Sparkhacks-2025](https://github.com/educationmoment/Sparkhacks-2025/tree/main)  
-  _Web GUI and controller integrations for live mission management_
-
--  [PianoHamster](https://github.com/educationmoment/pianohamster/tree/main)  
-  _a piano programming language created entirely by me, written in rust._
-
----
+  _UIC 2025 Lunabotics_
 
 
+
+<p>My current project is our new robot at UIC, which is completely rebuilt, and redesigned. I am working with an Intel NUC running Ubuntu 22.04, on ROS Humble.</p>
+
+[2026 Lunabotics Competetion](https://github.com/educationmoment/EDT-Lunabotics-2026))  
+
+
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
 
