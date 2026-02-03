@@ -1,4 +1,4 @@
-<p align="left">Hey, I am a robotic software engineer currently working in ML/AI. I know Python, CPP, C, C# and assembly the best.</p>
+<p align="left">Hey, I am a robotic software engineer currently working in ML/AI. I know Python, CPP, C, C# and assembly x86 & arm64 the best.</p>
 
 <p>My website is <b>https://terminal.college/</b>, where I post sometimes.</p>
 
@@ -20,5 +20,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" alt="c" width="40" height="40"/>
 </p>
 
